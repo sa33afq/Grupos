@@ -2,4 +2,11 @@
     <string name="app_name">Grupos</string>
     <string name="lblNumero1">Introduce primer numero</string>
     <string name="lblNumero2">Introduce segundo numero</string>
+    <string name="HintEdtNumero1">Una ayuda</string>
+    <string name="HintEdtNumero2">Una ayuda</string>
+    <string name="lblRBtnSumar">Sumar</string>
+    <string name="lblRBtnRestar">Restar</string>
+    <string name="lblRBtnMultiplicar">Multiplicar</string>
+    <string name="lblRBtnDividir">Dividir</string>
+    <string name="lblBtnDo">Accion</string>
 </resources>
